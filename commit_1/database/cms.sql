@@ -1,4 +1,4 @@
-use cumsdbms;
+use cmsdbms;
 
 CREATE TABLE IF NOT EXISTS `admin`(
 	`admin_id` VARCHAR(36) NOT NULL,
